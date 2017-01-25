@@ -1,0 +1,1 @@
+Approval may be required if the total net value of a purchase order item exceeds its predefined tolerances or if the maximum value of a limit item is exceeded.
